@@ -140,7 +140,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Julie Mwol working!')
+            chalk.green.bold('✅ Kelly Mwol working!')
         );
         await conn.sendMessage(
             conn.user.jid,
@@ -324,8 +324,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝕁𝕦𝕝𝕚𝕖𝕄𝕨𝕠𝕝 ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n*Support group*\nchat.whatsapp.com/EWLP9VPgYmgGff6NORWSKk ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ Kᴇʟʟʏ Ꮇᴡᴏʟ ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n*Support group*\https://chat.whatsapp.com/HtNneOrmY8W1U3gkP4pXOh ' 
                                     , MessageType.text);
                             }
                         }
