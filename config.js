@@ -18,7 +18,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 module.exports = {
     VERSION: 'v8.0.2',
     CHANNEL: 'https://t.me/remasterplugin',
-    SESSION: process.env.JULIE_SESSION === undefined ? '' : process.env.JULIE_SESSION,
+    SESSION: process.env.KELLY_SESSION === undefined ? '' : process.env.KELLY_SESSION,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
@@ -56,7 +56,7 @@ module.exports = {
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     TAGPLK: process.env.TAG_HEADER === undefined ? 'Note this' : process.env.TAG_HEADER,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
-    YAK: process.env.YAK === undefined ? '918921483992,0' : process.env.YAK,
+    YAK: process.env.YAK === undefined ? '919567489404,0' : process.env.YAK,
     BRANCH: 'master',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
