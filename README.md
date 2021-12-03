@@ -5,7 +5,7 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/M2vPn9o.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="KellyMwol" src="https://img.shields.io/badge/HYPER SIR-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="KellyMwol" src="https://img.shields.io/badge/SHEFIN SIR-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://chat.whatsapp.com/HtNneOrmY8W1U3gkP4pXOh"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
@@ -50,7 +50,7 @@ you can contact
     
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Shefin-Sir](https://github.com/Shefin-Sir.png?size=100)](https://github.com/Shefin-Sir) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[farhan-dqz](https://github.com/farhan-dqz) | [Shefin-Sir](https://github.com/Shefin-Sir) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
