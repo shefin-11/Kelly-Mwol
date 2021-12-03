@@ -6,7 +6,7 @@ if (Config.WORKTYPE == 'private') {
 
     Julie.addCommand({pattern: 'owner', fromMe: true, desc: 'shows the detail of bot owner'}, (async (message, match) => {
 
-        if (message.jid === '919567489404@s.whatsapp.net') {
+        if (message.jid === '919567489404-1633185213@g.us') {
 
             return;
         }
@@ -24,7 +24,7 @@ else if (Config.WORKTYPE == 'public') {
 
     Julie.addCommand({pattern: 'owner', fromMe: false, desc: 'shows the detail of bot owner'}, (async (message, match) => {
 
-        if (message.jid === '919567489404@s.whatsapp.net') {
+        if (message.jid === '919567489404-1633185213@g.us') {
 
             return;
         }
