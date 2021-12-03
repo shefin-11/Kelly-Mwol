@@ -1,14 +1,14 @@
 {
-  "name": "JulieMwol",
+  "name": "KellyMwol",
   "version": "7.3.6",
-  "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
-  "main": "./Julie-Mwol/bot.js",
+  "description": "Kelly Mwol is the Modified Version of WhatsAsena, Made By @Shefin-Sir with Baileys.",
+  "main": "./Kelly-Mwol/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/farhan-dqz/Julie-Mwol.git"
+    "url": "git+https://github.com/Shefin-Sir/Kelly-Mwol.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,11 +17,11 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "farhan-dqz",
-  "developer": "@TOXIC-DEVIL / @farhan-dqz",
+  "author": "Shefin-Sir",
+  "developer": "@Shefin-Sir / @farhan-dqz",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/farhan-dqz/Julie-Mwol/issues"
+    "url": "https://github.com/Shefin-Sir/Kelly-Mwol/issues"
   },
   "homepage": "https://github.com/farhan-dqz/Julie-Mwol#readme",
   "dependencies": {
